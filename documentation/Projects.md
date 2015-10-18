@@ -28,7 +28,7 @@ Xastir
 
 #### Xastir Installation
 
-No apt-get candidate for Debian Whezzy
+No apt-get candidate for Debian Whezzy so manual compilation required
 
     root@Minnowboard:~# apt-get install libx11-dev lesstif2-dev
     user@Minnowboard:~$ wget <xastir source code tar.gz>
