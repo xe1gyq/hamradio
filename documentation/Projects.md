@@ -54,6 +54,6 @@ Xastir Configuration Station & Internet Access
      Port
      Pass-code
 
-     @Xastir> Interface -> Interface Control -> Seleccionar "Device 0 Internet Server" -> Start
+     @Xastir> Interface -> Interface Control -> Select "Device 0 Internet Server" -> Start
 
 
