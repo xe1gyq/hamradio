@@ -40,19 +40,20 @@ No apt-get candidate for Debian Whezzy so manual compilation required
     user@Minnowboard:~$ xastir &
 
 Xastir Configuration Station & Internet Access
-@Xastir> File -> Configure -> Station
- Callsign
- LAT
- LONG
- Station Symbol
- Power - Height (HAAT) - Gain - Directivity
- Comment
 
-@Xastir> Interface -> Interface Control -> Add -> Internet Server
- Host
- Port
- Pass-code
+    @Xastir> File -> Configure -> Station
+     Callsign
+     LAT
+     LONG
+     Station Symbol
+     Power - Height (HAAT) - Gain - Directivity
+     Comment
 
-@Xastir> Interface -> Interface Control -> Seleccionar "Device 0 Internet Server" -> Start
+    @Xastir> Interface -> Interface Control -> Add -> Internet Server
+     Host
+     Port
+     Pass-code
+
+     @Xastir> Interface -> Interface Control -> Seleccionar "Device 0 Internet Server" -> Start
 
 
