@@ -10,10 +10,7 @@
 - Debian Wheezy
 - Debian Jessie
 
-
-Paquetes a Instalar
-
-    SSH Server
-    Standard System Utilities
+- SSH Server
+- Standard System Utilities
 
 
