@@ -22,7 +22,7 @@ Xastir
 - http://xastir.org/ 
 - http://www.linuxjournal.com/article/10621
 
-Graphical User Interface Installation
+#### Graphical User Interface Installation
 
     root@Minnowboard:~# apt-get install task-lxde-desktop
 
