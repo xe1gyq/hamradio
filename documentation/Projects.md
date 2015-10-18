@@ -25,7 +25,7 @@ Graphical User Interface Installation
 
     root@Minnowboard:~# apt-get install task-lxde-desktop
 
-Instalacion de Xastir
+Xastir Installation
 Hasta la puiblicacion de esta seccion no se encontro candidato de Xastir para instalacion con apt-get, esta es la opcion de compilar el codigo fuente
  
 root@Minnowboard:~# apt-get install libx11-dev lesstif2-dev
