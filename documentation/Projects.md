@@ -9,7 +9,6 @@
 - SSD ADATA 32 GB
 - Debian Wheezy
 - Debian Jessie
-
 - SSH Server
 - Standard System Utilities
 
