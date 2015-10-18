@@ -2,4 +2,4 @@
 
 ## Cancun v0.1, Voice Experimental Station
 
-## Huatulco v2.0, MinnowBoard MAX, Low Power Station 
+## Huatulco v2.0, Low Power Station 
