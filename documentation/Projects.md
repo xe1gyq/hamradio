@@ -11,12 +11,13 @@
 - SSH Server
 - Standard System Utilities
 
-### APRS
+### Automatic Packet Reporting System (APRS™) via Xastir
 
-Automatic Packet Reporting System (APRS™)
+
 - http://aprs.org/
 - http://info.aprs.net/
 - http://aprs.fi
+
 Xastir
 - http://xastir.org/ 
 - http://www.linuxjournal.com/article/10621
