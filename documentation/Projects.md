@@ -37,11 +37,9 @@ No apt-get candidate for Debian Whezzy so manual compilation required
     user@Minnowboard:~$ ./configure
     user@Minnowboard:~$ make
     root@Minnowboard:~# make install
+    user@Minnowboard:~$ xastir &
 
-Iniciando Xastir
-root@Minnowboard:~$ xastir &
-
-Configurando Xastir | Estacion & Acceso a Internet
+Xastir Configuration Station & Internet Access
 @Xastir> File -> Configure -> Station
  Callsign
  LAT
