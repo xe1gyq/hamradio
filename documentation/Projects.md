@@ -49,6 +49,7 @@ Xastir Configuration Station & Internet Access
      Power - Height (HAAT) - Gain - Directivity
      Comment
 
+
     @Xastir> Interface -> Interface Control -> Add -> Internet Server
      Host
      Port
