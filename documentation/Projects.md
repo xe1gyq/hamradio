@@ -25,18 +25,17 @@ Graphical User Interface Installation
 
     root@Minnowboard:~# apt-get install task-lxde-desktop
 
-Xastir Installation
-Hasta la puiblicacion de esta seccion no se encontro candidato de Xastir para instalacion con apt-get, esta es la opcion de compilar el codigo fuente
- 
-root@Minnowboard:~# apt-get install libx11-dev lesstif2-dev
-<cambio a tu usuario>
-root@Minnowboard:~$ wget <url del codigo fuente de xastir en formato tar.gz>
-root@Minnowboard:~$ tar zxvf xastir-2.0.6.tar.gz
-root@Minnowboard:~$ cd xastir-2.0.6
-root@Minnowboard:~$ ./configure
-root@Minnowboard:~$ make
-<cambio a root>
-root@Minnowboard:~# make install
+#### Xastir Installation
+
+No apt-get candidate for Debian Whezzy
+
+    root@Minnowboard:~# apt-get install libx11-dev lesstif2-dev
+    user@Minnowboard:~$ wget <xastir source code tar.gz>
+    user@Minnowboard:~$ tar zxvf xastir-2.0.6.tar.gz
+    user@Minnowboard:~$ cd xastir-2.0.6
+    user@Minnowboard:~$ ./configure
+    user@Minnowboard:~$ make
+    root@Minnowboard:~# make install
 
 Iniciando Xastir
 root@Minnowboard:~$ xastir &
