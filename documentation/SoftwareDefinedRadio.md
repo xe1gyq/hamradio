@@ -8,6 +8,7 @@ Software Defined Radio
     root@jessie:/home/xe1gyq# apt-get update
     root@jessie:/home/xe1gyq# apt-get install gnuradio gnuradio-dev
     root@jessie:/home/xe1gyq# apt-get install rtl-sdr gr-osmosdr
+    root@jessie:/home/xe1gyq# apt-get install cmake libboost-dev sqlite pyqt4-dev-tools liblog4cpp5-dev swig
     
 ## RTL2838UHIDIR
 
