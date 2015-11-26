@@ -17,5 +17,6 @@ Software Defined Radio
     [11700.127901] usb 5-3: Product: RTL2838UHIDIR
     [11700.127903] usb 5-3: Manufacturer: Realtek
     [11700.127906] usb 5-3: SerialNumber: 00000001
-
+    root@jessie:/home/xe1gyq# lsusb
+    Bus 005 Device 020: ID 0bda:2838 Realtek Semiconductor Corp. RTL2838 DVB-T
 
