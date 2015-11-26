@@ -1,7 +1,7 @@
 Software Defined Radio
 ==
 
-## Software
+## PreRequisites
 
     xe1gyq@jessie:~$ su
     Password: 
