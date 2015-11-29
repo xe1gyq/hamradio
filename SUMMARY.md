@@ -10,4 +10,5 @@
    * [Manzanillo](documentation/projects/Manzanillo.md)
    * [Los Cabos](documentation/projects/LosCabos.md)
    * [Sayulita](documentation/projects/Sayulita.md)
+   * Guayabitos
 
