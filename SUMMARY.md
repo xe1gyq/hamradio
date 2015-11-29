@@ -6,5 +6,5 @@
 * [Projects](documentation/Projects.md)
    * [Huatulco](documentation/projects/Huatulco.md)
    * [Cancun](documentation/projects/Cancun.md)
-   * Puerto Escondido
+   * [Puerto Escondido](documentation/projects/PuertoEscondido.md)
 
