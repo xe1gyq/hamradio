@@ -12,4 +12,5 @@
    * [Los Cabos](documentation/projects/LosCabos.md)
    * [Guayabitos](documentation/projects/Guayabitos.md)
    * [Tulum](documentation/projects/Tulum.md)
+   * Miramar
 
