@@ -4,5 +4,5 @@
 * [Software Defined Radio](documentation/SoftwareDefinedRadio.md)
 * [AX25](documentation/Ax25.md)
 * [Projects](documentation/Projects.md)
-   * Huatulco
+   * [Huatulco](documentation/projects/Huatulco.md)
 
