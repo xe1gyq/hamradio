@@ -9,8 +9,7 @@ Contribuidores
 - Richo Perez "xe1gyp" http://www.qrz.com/db/xe1gyp 
 
 Computadora
-
-MicroATX Celeron
+- MicroATX Celeron
 
 Equipo Adicional
 
