@@ -8,5 +8,5 @@
    * [Cancun](documentation/projects/Cancun.md)
    * [Puerto Escondido](documentation/projects/PuertoEscondido.md)
    * [Manzanillo](documentation/projects/Manzanillo.md)
-   * Los Cabos
+   * [Los Cabos](documentation/projects/LosCabos.md)
 
