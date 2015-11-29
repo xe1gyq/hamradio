@@ -15,7 +15,7 @@ Huatulco v2.0, Low Power Station
 - SSH Server
 - Standard System Utilities
 
-### Automatic Packet Reporting System (APRS™) via Xastir
+## Automatic Packet Reporting System (APRS™) via Xastir
 
 APRS
 - http://aprs.org/
