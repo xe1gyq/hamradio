@@ -5,5 +5,5 @@
 * [AX25](documentation/Ax25.md)
 * [Projects](documentation/Projects.md)
    * [Huatulco](documentation/projects/Huatulco.md)
-   * Cancun
+   * [Cancun](documentation/projects/Cancun.md)
 
