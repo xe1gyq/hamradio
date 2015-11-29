@@ -7,4 +7,5 @@
    * [Huatulco](documentation/projects/Huatulco.md)
    * [Cancun](documentation/projects/Cancun.md)
    * [Puerto Escondido](documentation/projects/PuertoEscondido.md)
+   * Manzanillo
 
