@@ -26,11 +26,11 @@ Xastir
 - http://xastir.org/ 
 - http://www.linuxjournal.com/article/10621
 
-#### Graphical User Interface Installation
+### Graphical User Interface Installation
 
     root@Minnowboard:~# apt-get install task-lxde-desktop
 
-#### Xastir Installation
+### Xastir Installation
 
 No apt-get candidate for Debian Whezzy so manual compilation required
 
@@ -43,7 +43,7 @@ No apt-get candidate for Debian Whezzy so manual compilation required
     root@Minnowboard:~# make install
     user@Minnowboard:~$ xastir &
 
-#### Xastir Configuration
+### Xastir Configuration
 
     @Xastir> File -> Configure -> Station
      Callsign
