@@ -22,7 +22,7 @@ Equipo Adicional
 
 Sistema Operativo
 
-Linux Ubuntu
+- Linux Ubuntu
 
 Proyectos Soportados Actualmente
 
