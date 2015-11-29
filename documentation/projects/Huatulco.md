@@ -6,9 +6,7 @@ Huatulco v2.0, Low Power Station
 - [Radio Club Guadiana](http://www.radioclubguadiana.org.mx)
 - Ricardo Solano "xe1gqp"
 
-
-
-## Requiremnes
+## Requirements
 - MinnowBoard Max http://www.minnowboard.org/meet-minnowboard-max/
 - SSD ADATA 32 GB
 - Debian Wheezy
