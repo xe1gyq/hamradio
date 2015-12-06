@@ -15,4 +15,5 @@
    * [Miramar](documentation/projects/Miramar.md)
 * [Services](documentation/services/Services.md)
    * [WhatsApp](documentation/services/WhatsApp.md)
+   * Telegram
 
