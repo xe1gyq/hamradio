@@ -7,3 +7,5 @@ https://github.com/markqvist/LibAPRS
 https://github.com/philcrump/mobile-aprs
 https://github.com/philcrump/mobile-aprs/blob/master/beacon-scripts/beacon.py
 https://github.com/dburr/linux-ibeacon
+
+https://github.com/philcrump/mobile-aprs/blob/master/beacon-scripts/beacon_usb.py
