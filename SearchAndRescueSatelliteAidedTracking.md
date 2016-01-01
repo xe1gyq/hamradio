@@ -10,7 +10,7 @@ Satellites Constellations
 
 LEOSAR
 
-
+> LEOSAR predates the GEOSAR system, and it complements it. LEOSAR satellites are monitored by 44 LEOLUTs (low Earth orbit local user terminals).[10] The complementary LEOSAR satellites provide periodic coverage of the entire earth with an emphasis on polar regions. The LEOSAR satellites operate in a store-and-forward mode for 406 MHz signals --- they store distress signals and forward them to the next LEOLUT ground station they overfly. The five-satellite polar-orbit constellation of the LEOSAR system provides frequent coverage of the poles with approximately 100 minute orbits.
 
 GEOSAR
 
