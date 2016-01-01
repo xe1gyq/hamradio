@@ -8,5 +8,10 @@ Search and Rescue Satellite Aided Tracking
 
 Satellites Constellations
 
-- LEOSAR
-- GEOSAR
+LEOSAR
+
+
+
+GEOSAR
+
+> The GEOSAR satellites are monitored by 16 GEOLUTs (Geostationary Earth Orbit Local User Terminals.)[12] The GEOSAR satellites provide continuous coverage of the entire earth below about 70 degrees latitude with a view toward the equatorial sky. Some locations have poor radio reception toward the GEOSAR satellites and polar regions are not well covered.
