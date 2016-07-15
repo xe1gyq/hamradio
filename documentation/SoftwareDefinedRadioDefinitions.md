@@ -9,6 +9,10 @@
 - [GNU Radio Wiki](http://gnuradio.org/redmine/projects/gnuradio/wiki)
 - [GNU Radio Wiki Hardware](http://gnuradio.org/redmine/projects/gnuradio/wiki/Hardware)
 
+## GNU Radio Companion
+
+> One of the most powerful components of GNU Radio is the GNU Radio Companion (GRC). It allows you to graphically program GNU Radio applications! 
+
 ## OSMOCOM SDR
 
 > A collection of SDR related software + hardware projects [OSMOCOM SDR (Software Defined Radio) Homepage](http://osmocom.org/projects/sdr)
