@@ -64,5 +64,27 @@ Sampling at 1200000 S/s.
 Output at 200000 Hz.
 Playing raw data 'stdin' : Signed 16 bit Little Endian, Rate 48000 Hz, Mono
 underrun!!! (at least 327.050 ms long)
+```
+
+```sh
+root@jessie:~# rtl_fm -f 93.5e6 -s 200000 -r 48000 - | aplay -r 48k -f S16_LE -t raw
+Found 1 device(s):
+  0:  Realtek, RTL2838UHIDIR, SN: 00000001
+
+Using device 0: Generic RTL2832U OEM
+Found Rafael Micro R820T tuner
+Oversampling input by: 6x.
+Oversampling output by: 1x.
+Buffer size: 6.83ms
+Tuned to 93800000 Hz.
+Sampling at 1200000 Hz.
+Output at 48000 Hz.
+Tuner gain set to automatic.
+Playing raw data 'stdin' : Signed 16 bit Little Endian, Rate 48000 Hz, Mono
+underrun!!! (at least 122.143 ms long)
+^CSignal caught, exiting!
+Aborted by signal Interrupt...
+
+User cancel, exiting...
 
 ```
