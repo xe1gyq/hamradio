@@ -30,3 +30,10 @@ root@jessie:~/sdr# ls
 01  02	LICENSE
 root@jessie:~/sdr# 
 ```
+
+```sh
+root@jessie:~/sdr# ls
+01  02	LICENSE
+root@jessie:~/sdr# cd 01/
+root@jessie:~/sdr/01# gnuradio-companion 01.grc 
+```
