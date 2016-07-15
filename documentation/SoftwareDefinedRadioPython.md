@@ -1,7 +1,5 @@
 # Python
 
-# Python
-
 ```python
 from rtlsdr import RtlSdr
 
