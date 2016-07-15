@@ -38,7 +38,6 @@ root@jessie:~/sdr# cd 01/
 root@jessie:~/sdr/01# ls
 01.grc	top_block.py
 root@jessie:~/sdr/01# 
-
 ```
 
 ```sh
