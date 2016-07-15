@@ -5,7 +5,7 @@
    * [Definitions](documentation/SoftwareDefinedRadioDefinitions.md)
    * [Setup](documentation/SoftwareDefinedRadioSetup.md)
    * [Testing](documentation/SoftwareDefinedRadioTesting.md)
-   * Hardware
+   * [Hardware](documentation/SoftwareDefinedRadioHardware.md)
 * [AX25](documentation/Ax25.md)
 * [Projects](documentation/Projects.md)
    * [Sayulita](documentation/projects/Sayulita.md)
