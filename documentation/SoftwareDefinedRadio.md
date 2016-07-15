@@ -1,6 +1,8 @@
 # Software Defined Radio
 
 
+> Software-defined radio (SDR) is a radio communication system where components that have been typically implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer or embedded system [Wikipedia](https://en.wikipedia.org/wiki/Software-defined_radio)
+
 # Trainings
 
 - At Youtube
