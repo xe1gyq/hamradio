@@ -1,7 +1,7 @@
 # Summary
 
 * [Cover](README.md)
-* Summary
+* [Summary](SUMMARY.md)
 * [Introduction](documentation/Introduction.md)
 * [Software Defined Radio](documentation/SoftwareDefinedRadio.md)
    * [Definitions](documentation/SoftwareDefinedRadioDefinitions.md)
