@@ -20,6 +20,20 @@ root@jessie:~# apt-get install cmake libboost-dev sqlite pyqt4-dev-tools liblog4
 ```sh
 root@jessie:~# apt-get install rtl-sdr hackrf bladerf-host gr-fcdproplus qthid-fcd-controller
 ```
+
+## Python
+
+```sh
+root@jessie:~# pip install pyrtlsdr
+Collecting pyrtlsdr
+  Downloading pyrtlsdr-0.2.3-py2.py3-none-any.whl
+Installing collected packages: pyrtlsdr
+Successfully installed pyrtlsdr-0.2.3
+You are using pip version 8.1.1, however version 8.1.2 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+root@jessie:~# 
+```
+
 # Manual
 
 ```sh
