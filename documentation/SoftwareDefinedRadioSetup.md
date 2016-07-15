@@ -16,4 +16,9 @@ root@jessie:~# apt-get install cmake libboost-dev sqlite pyqt4-dev-tools liblog4
 
 ```sh
 root@jessie:~# git clone --recursive git://git.gnuradio.org/gnuradio.git
+root@jessie:~# cd gnuradio
+root@jessie:~# mkdir build
+root@jessie:~# cd build
+root@jessie:~# cmake ../
+root@jessie:~# make
 ```
