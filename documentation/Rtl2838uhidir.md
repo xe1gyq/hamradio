@@ -67,7 +67,7 @@ underrun!!! (at least 327.050 ms long)
 ```
 
 ```sh
-root@jessie:~# rtl_fm -f 93.5e6 -s 200000 -r 48000 - | aplay -r 48k -f S16_LE -t raw
+root@jessie:~# rtl_fm -f 93.9e6 -s 200000 -r 48000 - | aplay -r 48k -f S16_LE -t raw
 Found 1 device(s):
   0:  Realtek, RTL2838UHIDIR, SN: 00000001
 
