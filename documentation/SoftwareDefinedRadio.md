@@ -1,6 +1,6 @@
 # Software Defined Radio
 
-## PreRequisites
+# PreRequisites
 
     xe1gyq@jessie:~$ su
     Password: 
@@ -9,7 +9,7 @@
     root@jessie:/home/xe1gyq# apt-get install rtl-sdr gr-osmosdr
     root@jessie:/home/xe1gyq# apt-get install cmake libboost-dev sqlite pyqt4-dev-tools liblog4cpp5-dev swig
     
-## RTL2838UHIDIR
+# RTL2838UHIDIR
 
     root@jessie:/home/xe1gyq# dmesg
     [11699.984048] usb 5-3: new high-speed USB device number 20 using ehci-pci
