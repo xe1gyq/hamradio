@@ -76,7 +76,7 @@ Found Rafael Micro R820T tuner
 Oversampling input by: 6x.
 Oversampling output by: 1x.
 Buffer size: 6.83ms
-Tuned to 93800000 Hz.
+Tuned to 942000 Hz.
 Sampling at 1200000 Hz.
 Output at 48000 Hz.
 Tuner gain set to automatic.
