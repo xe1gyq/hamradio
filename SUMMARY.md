@@ -7,6 +7,7 @@
    * [Testing](documentation/SoftwareDefinedRadioTesting.md)
    * [Hardware](documentation/SoftwareDefinedRadioHardware.md)
        * [HackRF](documentation/HackRf.md)
+       * RTL2838UHIDIR
 * [AX25](documentation/Ax25.md)
 * [Projects](documentation/Projects.md)
    * [Sayulita](documentation/projects/Sayulita.md)
