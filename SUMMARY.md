@@ -9,7 +9,7 @@
        * [RTL2838UHIDIR](documentation/Rtl2838uhidir.md)
    * [Examples](documentation/SoftwareDefinedRadioExamples.md)
        * [GNU Radio Companion](documentation/GnuRadioCompanion.md)
-       * Python
+       * [Python](documentation/Python.md)
 * [AX25](documentation/Ax25.md)
 * [Projects](documentation/Projects.md)
    * [Sayulita](documentation/projects/Sayulita.md)
