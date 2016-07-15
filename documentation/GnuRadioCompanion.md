@@ -35,5 +35,8 @@ root@jessie:~/sdr#
 root@jessie:~/sdr# ls
 01  02	LICENSE
 root@jessie:~/sdr# cd 01/
+```
+
+```sh
 root@jessie:~/sdr/01# gnuradio-companion 01.grc 
 ```
