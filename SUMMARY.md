@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Software Defined Radio](documentation/SoftwareDefinedRadio.md)
+   * Definitions
 * [AX25](documentation/Ax25.md)
 * [Projects](documentation/Projects.md)
    * [Sayulita](documentation/projects/Sayulita.md)
