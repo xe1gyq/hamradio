@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Cover](README.md)
 * [Software Defined Radio](documentation/SoftwareDefinedRadio.md)
    * [Definitions](documentation/SoftwareDefinedRadioDefinitions.md)
    * [Setup](documentation/SoftwareDefinedRadioSetup.md)
