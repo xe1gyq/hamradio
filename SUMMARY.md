@@ -4,7 +4,6 @@
 * [Software Defined Radio](documentation/SoftwareDefinedRadio.md)
    * [Definitions](documentation/SoftwareDefinedRadioDefinitions.md)
    * [Setup](documentation/SoftwareDefinedRadioSetup.md)
-   * [Testing](documentation/SoftwareDefinedRadioTesting.md)
    * [Hardware](documentation/SoftwareDefinedRadioHardware.md)
        * [HackRF](documentation/HackRf.md)
        * [RTL2838UHIDIR](documentation/Rtl2838uhidir.md)
