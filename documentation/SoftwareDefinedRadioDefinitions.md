@@ -10,7 +10,7 @@
 
 ## OSMOCOM SDR
 
-> A collection of SDR related software + hardware projects []()
+> A collection of SDR related software + hardware projects [](http://osmocom.org/projects/sdr)
 
 ## RTLSDR
 
