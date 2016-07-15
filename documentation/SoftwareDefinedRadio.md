@@ -3,4 +3,4 @@
 
 # Trainings
 
-[Balint's SDR Tutorials](http://files.ettus.com/tutorials/)
+- [Balint's SDR Tutorials](http://files.ettus.com/tutorials/)
