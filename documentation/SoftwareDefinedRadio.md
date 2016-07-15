@@ -4,6 +4,7 @@
 
     xe1gyq@jessie:~$ sudo su
     Password: 
+    root@jessie:/home/xe1gyq# cd
     root@jessie:~# apt-get update
     root@jessie:/home/xe1gyq# apt-get install gnuradio gnuradio-dev
     root@jessie:/home/xe1gyq# apt-get install rtl-sdr gr-osmosdr
