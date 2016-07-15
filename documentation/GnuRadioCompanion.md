@@ -1,6 +1,6 @@
 # GNU Radio Companion
 
-```
+```sh
 root@jessie:~# gnuradio-companion 
 linux; GNU C++ version 4.9.1; Boost_105500; UHD_003.007.003-0-unknown
 
