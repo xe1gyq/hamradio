@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover](README.md)
+* Introduction
 * [Software Defined Radio](documentation/SoftwareDefinedRadio.md)
    * [Definitions](documentation/SoftwareDefinedRadioDefinitions.md)
    * [Setup](documentation/SoftwareDefinedRadioSetup.md)
@@ -27,5 +28,4 @@
 * [Automatic Packet Radio System](documentation/AutomaticPacketRadioSystem.md)
 * [Search and Rescue Satellite Aided Tracking](SearchAndRescueSatelliteAidedTracking.md)
 * [Sandbox](documentation/Sandbox.md)
-* Introduction
 
