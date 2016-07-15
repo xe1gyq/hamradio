@@ -2,6 +2,24 @@
 
 # RTL2838UHIDIR
 
+
+```sh
+root@jessie:~# lsusb
+Bus 003 Device 002: ID 046d:c31c Logitech, Inc. Keyboard K120 for Business
+Bus 003 Device 003: ID 046d:c05a Logitech, Inc. M90/M100 Optical Mouse
+Bus 005 Device 002: ID 0403:6001 Future Technology Devices International, Ltd FT232 USB-Serial (UART) IC
+Bus 006 Device 002: ID 148f:5370 Ralink Technology, Corp. RT5370 Wireless Adapter
+Bus 007 Device 005: ID 0bda:2838 Realtek Semiconductor Corp. RTL2838 DVB-T
+Bus 001 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 002 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 003 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 004 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 005 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 006 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 007 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+root@jessie:~# 
+```
+
 ```sh
 root@jessie:~# dmesg
 [11699.984048] usb 5-3: new high-speed USB device number 20 using ehci-pci
