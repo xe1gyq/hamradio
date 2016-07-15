@@ -1,6 +1,6 @@
 # Setup
 
-# PreRequisites
+# Packages
 
 ```sh
 xe1gyq@jessie:~$ sudo su
@@ -11,4 +11,9 @@ root@jessie:~# apt-get install gnuradio gnuradio-dev
 root@jessie:~# apt-get install rtl-sdr gr-osmosdr
 root@jessie:~# apt-get install cmake libboost-dev sqlite pyqt4-dev-tools liblog4cpp5-dev swig
 ```
-    
+
+# Manual
+
+```sh
+root@jessie:~# git clone --recursive git://git.gnuradio.org/gnuradio.git
+```
