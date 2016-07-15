@@ -1,5 +1,23 @@
 # Examples
 
+# Python
+
+```python
+from rtlsdr import RtlSdr
+
+sdr = RtlSdr()
+
+# configure device
+sdr.sample_rate = 2.048e6  # Hz
+sdr.center_freq = 70e6     # Hz
+sdr.freq_correction = 60   # PPM
+sdr.gain = 'auto'
+
+print(sdr.read_samples(512))
+```
+
+# Argilo
+
 ```
 root@jessie:~$ git clone https://github.com/argilo/sdr-examples.git
 Cloning into 'sdr-examples'...
