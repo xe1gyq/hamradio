@@ -30,6 +30,19 @@ root@jessie:~#
 ```
 
 ```sh
+root@jessie:~# rtl_test -t
+Found 1 device(s):
+  0:  Realtek, RTL2838UHIDIR, SN: 00000001
+
+Using device 0: Generic RTL2832U OEM
+Found Rafael Micro R820T tuner
+Supported gain values (29): 0.0 0.9 1.4 2.7 3.7 7.7 8.7 12.5 14.4 15.7 16.6 19.7 20.7 22.9 25.4 28.0 29.7 32.8 33.8 36.4 37.2 38.6 40.2 42.1 43.4 43.9 44.5 48.0 49.6 
+Sampling at 2048000 S/s.
+No E4000 tuner found, aborting.
+root@jessie:~# 
+```
+
+```sh
 root@jessie:~# rtl_fm -f 96.3e6 -M wbfm -s 200000 -r 48000 - | aplay -r 48k -f S16_LE
 Found 1 device(s):
   0:  Realtek, RTL2838UHIDIR, SN: 00000001
