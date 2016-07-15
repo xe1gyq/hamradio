@@ -20,7 +20,7 @@
 
 ## Gqrx SDR
 
-> A software defined radio powered by GNU-Radio and Qt [](http://gqrx.dk/)
+> A software defined radio powered by GNU-Radio and Qt [Gqrx SDR Homepage](http://gqrx.dk/)
 
 # Linux Packages
 
