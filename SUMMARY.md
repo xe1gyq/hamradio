@@ -4,6 +4,7 @@
 * [Summary](SUMMARY.md)
 * [Introduction](documentation/Introduction.md)
 * [Software Defined Radio](documentation/SoftwareDefinedRadio.md)
+   * Introduction
    * [Definitions](documentation/SoftwareDefinedRadioDefinitions.md)
    * [Setup](documentation/SoftwareDefinedRadioSetup.md)
    * [Hardware](documentation/SoftwareDefinedRadioHardware.md)
@@ -12,7 +13,6 @@
    * [Examples](documentation/SoftwareDefinedRadioExamples.md)
        * [GNU Radio Companion](documentation/GnuRadioCompanion.md)
        * [Python](documentation/SoftwareDefinedRadioPython.md)
-   * Introduction
 * [AX25](documentation/Ax25.md)
 * [Projects](documentation/Projects.md)
    * [Sayulita](documentation/projects/Sayulita.md)
