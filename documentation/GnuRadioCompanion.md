@@ -43,3 +43,8 @@ root@jessie:~/sdr/01#
 ```sh
 root@jessie:~/sdr/01# gnuradio-companion 01.grc 
 ```
+
+```sh
+root@jessie:~/sdr/01# python top_block.py 
+Using Volk machine: ssse3_32_orc
+```
