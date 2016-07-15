@@ -14,3 +14,21 @@ root@jessie:~# lsusb
 Bus 005 Device 020: ID 0bda:2838 Realtek Semiconductor Corp. RTL2838 DVB-T
 ```
 
+```sh
+root@jessie:~# rtl_fm -f 96.3e6 -M wbfm -s 200000 -r 48000 - | aplay -r 48k -f S16_LE
+Found 1 device(s):
+  0:  Realtek, RTL2838UHIDIR, SN: 00000001
+
+Using device 0: Generic RTL2832U OEM
+Found Rafael Micro R820T tuner
+Tuner gain set to automatic.
+Tuned to 96616000 Hz.
+Oversampling input by: 6x.
+Oversampling output by: 1x.
+Buffer size: 6.83ms
+Sampling at 1200000 S/s.
+Output at 200000 Hz.
+Playing raw data 'stdin' : Signed 16 bit Little Endian, Rate 48000 Hz, Mono
+underrun!!! (at least 327.050 ms long)
+
+```
