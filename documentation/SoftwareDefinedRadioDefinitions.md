@@ -37,6 +37,8 @@
 
 > rtl-sdr DVB-T dongles based on the Realtek RTL2832U can be used as a cheap SDR, since the chip allows transferring the raw I/Q samples to the host, which is officially used for DAB/DAB+/FM demodulation. The possibility of this has been discovered by Eric Fry (​History and Discovery of RTLSDR). Antti Palosaari has not been involved in development of rtl-sdr. [osmocomSDR rtl-sdr](http://sdr.osmocom.org/trac/wiki/rtl-sdr)
 
+- [Software to turn the RTL2832U into an SDR](https://github.com/steve-m/librtlsdr)
+
 ## gr-osmosdr
 
 > osmocom Gnu Radio Blocks [osmocomSDR Homepage](http://sdr.osmocom.org/trac/wiki/GrOsmoSDR)
