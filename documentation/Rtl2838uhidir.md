@@ -30,7 +30,7 @@ root@jessie:~#
 ```
 
 ```sh
-root@jessie:~# 
+root@jessie:~# rmmod dvb_usb_rtl28xxu
 root@jessie:~# 
 ```
 
