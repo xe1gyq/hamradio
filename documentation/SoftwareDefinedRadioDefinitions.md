@@ -25,4 +25,4 @@
 
 ## gr-osmosdr
 
->  [](http://sdr.osmocom.org/trac/wiki/GrOsmoSDR)
+> osmocom Gnu Radio Blocks [](http://sdr.osmocom.org/trac/wiki/GrOsmoSDR)
