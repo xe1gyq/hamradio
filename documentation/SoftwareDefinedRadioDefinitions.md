@@ -4,7 +4,7 @@
 
 ## RTLSDR
 
-> This Wiki is intended to collect all sorts of disparate information concerning the use of the so called RTLSDR. If you wish to add to this wiki please contact the Osmocom guys and ask for editing access rights to this site. []()
+> This Wiki is intended to collect all sorts of disparate information concerning the use of the so called RTLSDR. If you wish to add to this wiki please contact the Osmocom guys and ask for editing access rights to this site. [RTL SDR](http://rtlsdr.org/)
 
 # Linux Packages
 
