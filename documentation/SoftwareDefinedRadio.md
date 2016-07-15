@@ -1,6 +1,5 @@
 # Software Defined Radio
 
-
 # RTL2838UHIDIR
 
 ```sh
