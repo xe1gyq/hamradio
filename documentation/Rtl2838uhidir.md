@@ -31,7 +31,8 @@ root@jessie:~#
 
 ```sh
 root@jessie:~# rmmod dvb_usb_rtl28xxu
-root@jessie:~# 
+root@jessie:~# nano /etc/modprobe.d/blacklist.conf
+blacklist dvb_usb_rtl28xxu
 ```
 
 ```sh
