@@ -81,7 +81,7 @@ Sampling at 1200000 Hz.
 Output at 48000 Hz.
 Tuner gain set to automatic.
 Playing raw data 'stdin' : Signed 16 bit Little Endian, Rate 48000 Hz, Mono
-underrun!!! (at least 122.143 ms long)
+underrun!!! (at least 122.829 ms long)
 ^CSignal caught, exiting!
 Aborted by signal Interrupt...
 
