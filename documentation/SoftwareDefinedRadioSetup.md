@@ -1,6 +1,8 @@
 # Setup
 
-# Packages Core
+# Packages 
+
+## Core
 
 ```sh
 xe1gyq@jessie:~$ sudo su
@@ -13,11 +15,11 @@ root@jessie:~# apt-get install gr-osmosdr
 root@jessie:~# apt-get install cmake libboost-dev sqlite pyqt4-dev-tools liblog4cpp5-dev swig
 ```
 
+## Common SDR Dongles
+
 ```sh
 root@jessie:~# apt-get install rtl-sdr hackrf bladerf-host gr-fcdproplus qthid-fcd-controller
 ```
-
-
 # Manual
 
 ```sh
