@@ -13,3 +13,4 @@ root@jessie:~# dmesg
 root@jessie:~# lsusb
 Bus 005 Device 020: ID 0bda:2838 Realtek Semiconductor Corp. RTL2838 DVB-T
 ```
+
