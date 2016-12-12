@@ -53,5 +53,15 @@ root@jessie:~#
 ```
 
 ```sh
+root@jessie:~# lsmod | grep hackrf
+hackrf                 28672  0 
+videobuf2_vmalloc      16384  2 uvcvideo,hackrf
+videobuf2_core         49152  2 uvcvideo,hackrf
+v4l2_common            16384  2 hackrf,videobuf2_core
+videodev              172032  4 uvcvideo,hackrf,v4l2_common,videobuf2_core
+root@jessie:~# 
+```
+
+```sh
 root@jessie:~$ rtl_test -t
 ```
