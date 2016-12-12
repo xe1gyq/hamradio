@@ -24,7 +24,7 @@ root@jessie:~$
 ```
 
 ```sh
-pymelab@workstation:~$ lsusb
+root@jessie:~$ lsusb
 Bus 004 Device 002: ID 8087:8000 Intel Corp. 
 Bus 004 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 Bus 003 Device 002: ID 8087:8008 Intel Corp. 
@@ -34,8 +34,9 @@ Bus 001 Device 004: ID 1d50:6089 OpenMoko, Inc.
 Bus 001 Device 003: ID 04f2:b39a Chicony Electronics Co., Ltd 
 Bus 001 Device 002: ID 8087:07dc Intel Corp. 
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
-pymelab@workstation:~$ 
+root@jessie:~$  
 ```
 
 ```sh
+root@jessie:~$ rtl_test -t
 ```
