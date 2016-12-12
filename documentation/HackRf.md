@@ -38,5 +38,13 @@ root@jessie:~$
 ```
 
 ```sh
+root@workstation:~# nano /etc/udev/rules.d/52-hackrf.rules
+ATTR{idVendor}=="1d50", ATTR{idProduct}=="604b", SYMLINK+="hackrf-jawbreaker-%k", MODE="660", GROUP="plugdev"
+ATTR{idVendor}=="1d50", ATTR{idProduct}=="6089", SYMLINK+="hackrf-one-%k", MODE="660", GROUP="plugdev"
+ATTR{idVendor}=="1fc9", ATTR{idProduct}=="000c", SYMLINK+="hackrf-dfu-%k", MODE="660", GROUP="plugdev"
+
+```
+
+```sh
 root@jessie:~$ rtl_test -t
 ```
