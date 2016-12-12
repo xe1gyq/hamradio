@@ -221,3 +221,4 @@ root@jessie:~$ rtl_test -t
 root@jessie:~$ ./gqrx
 ```
 - [](https://mborgerson.com/getting-started-with-the-hackrf-one-on-ubuntu-14-04)
+- [](http://gqrx.dk/doc/practical-tricks-and-tips_
