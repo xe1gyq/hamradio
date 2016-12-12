@@ -38,7 +38,7 @@ root@jessie:~#
 ```
 
 ```sh
-root@workstation:~# nano /etc/udev/rules.d/52-hackrf.rules
+root@jessie:~# nano /etc/udev/rules.d/52-hackrf.rules
 ```
 
 ```sh
@@ -48,7 +48,8 @@ ATTR{idVendor}=="1fc9", ATTR{idProduct}=="000c", SYMLINK+="hackrf-dfu-%k", MODE=
 ```
 
 ```
-udevadm control --reload-rules
+root@jessie:~# udevadm control --reload-rules
+root@jessie:~# 
 ```
 
 ```sh
