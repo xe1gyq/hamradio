@@ -66,9 +66,16 @@ root@jessie:~#
 user@jessie:~$ mkdir ~/sdr
 user@jessie:~$ cd sdr/
 user@jessie:~/sdr$ git clone https://github.com/mossmann/hackrf.git
-Clone in «hackrf»...
+Clonar en «hackrf»...
 remote: Counting objects: 10714, done.
 remote: Compressing objects: 100% (5/5), done.
+remote: Total 10714 (delta 0), reused 0 (delta 0), pack-reused 10709
+Receiving objects: 100% (10714/10714), 33.69 MiB | 1.11 MiB/s, done.
+Resolving deltas: 100% (7622/7622), done.
+Comprobando la conectividad… hecho.
+pymelab@workstation:~/sdr$ cd hackrf/host
+pymelab@workstation:~/sdr/hackrf/host$ mkdir build && cd build
+pymelab@workstation:~/sdr/hackrf/host/build$ 
 
 ```
 
