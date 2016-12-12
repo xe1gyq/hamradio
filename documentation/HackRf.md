@@ -64,8 +64,8 @@ root@jessie:~#
 
 ```sh
 user@jessie:~$ mkdir ~/sdr
-user@workstation:~$ cd sdr/
-user@workstation:~/sdr$ git clone https://github.com/mossmann/hackrf.git
+user@jessie:~$ cd sdr/
+user@jessie:~/sdr$ git clone https://github.com/mossmann/hackrf.git
 Clone in «hackrf»...
 remote: Counting objects: 10714, done.
 remote: Compressing objects: 100% (5/5), done.
