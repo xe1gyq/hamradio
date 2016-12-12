@@ -76,9 +76,50 @@ Comprobando la conectividad… hecho.
 pymelab@workstation:~/sdr$ cd hackrf/host
 pymelab@workstation:~/sdr/hackrf/host$ mkdir build && cd build
 pymelab@workstation:~/sdr/hackrf/host/build$ 
-
 ```
 
+```sh
+pymelab@workstation:~/sdr/hackrf/host/build$ cmake ../ -DINSTALL_UDEV_RULES=ON
+-- The C compiler identification is GNU 4.8.4
+-- The CXX compiler identification is GNU 4.8.4
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check if the system is big endian
+-- Searching 16 bit integer
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of unsigned short
+-- Check size of unsigned short - done
+-- Using unsigned short
+-- Check if the system is big endian - little endian
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.26") 
+-- checking for module 'libusb-1.0'
+--   found libusb-1.0, version 1.0.17
+-- Found LIBUSB: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  
+-- Looking for include file pthread.h
+-- Looking for include file pthread.h - found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Setting udev rule group to - plugdev
+-- HackRF udev rules will be installed to '/etc/udev/rules.d' upon running 'make install'
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pymelab/sdr/hackrf/host/build
+pymelab@workstation:~/sdr/hackrf/host/build$ 
+```
 
 ```sh
 root@jessie:~$ rtl_test -t
