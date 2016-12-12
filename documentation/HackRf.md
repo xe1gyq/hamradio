@@ -217,4 +217,7 @@ pymelab@workstation:~/sdr/hackrf/host/build$
 root@jessie:~$ rtl_test -t
 ```
 
+```sh
+root@jessie:~$ ./gqrx
+```
 - [](https://mborgerson.com/getting-started-with-the-hackrf-one-on-ubuntu-14-04)
