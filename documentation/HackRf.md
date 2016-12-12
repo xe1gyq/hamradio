@@ -200,5 +200,19 @@ pymelab@workstation:~/sdr/hackrf/host/build$
 ```
 
 ```sh
+pymelab@workstation:~/sdr/hackrf/host/build$ sudo ldconfig
+```
+
+```sh
+pymelab@workstation:~/sdr/hackrf/host/build$ hackrf_info
+Found HackRF board.
+Board ID Number: 2 (HackRF One)
+Firmware Version: 2014.08.1
+Part ID Number: 0xa000cb3c 0x006d4749
+Serial Number: 0x00000000 0x00000000 0x321864c8 0x3952811d
+pymelab@workstation:~/sdr/hackrf/host/build$ 
+```
+
+```sh
 root@jessie:~$ rtl_test -t
 ```
