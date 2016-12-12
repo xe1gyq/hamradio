@@ -122,5 +122,83 @@ pymelab@workstation:~/sdr/hackrf/host/build$
 ```
 
 ```sh
+pymelab@workstation:~/sdr/hackrf/host/build$ make
+Scanning dependencies of target hackrf
+[ 11%] Building C object libhackrf/src/CMakeFiles/hackrf.dir/hackrf.c.o
+Linking C shared library libhackrf.so
+[ 11%] Built target hackrf
+Scanning dependencies of target hackrf-static
+[ 22%] Building C object libhackrf/src/CMakeFiles/hackrf-static.dir/hackrf.c.o
+Linking C static library libhackrf.a
+[ 22%] Built target hackrf-static
+Scanning dependencies of target hackrf_cpldjtag
+[ 33%] Building C object hackrf-tools/src/CMakeFiles/hackrf_cpldjtag.dir/hackrf_cpldjtag.c.o
+Linking C executable hackrf_cpldjtag
+[ 33%] Built target hackrf_cpldjtag
+Scanning dependencies of target hackrf_info
+[ 44%] Building C object hackrf-tools/src/CMakeFiles/hackrf_info.dir/hackrf_info.c.o
+Linking C executable hackrf_info
+[ 44%] Built target hackrf_info
+Scanning dependencies of target hackrf_max2837
+[ 55%] Building C object hackrf-tools/src/CMakeFiles/hackrf_max2837.dir/hackrf_max2837.c.o
+Linking C executable hackrf_max2837
+[ 55%] Built target hackrf_max2837
+Scanning dependencies of target hackrf_rffc5071
+[ 66%] Building C object hackrf-tools/src/CMakeFiles/hackrf_rffc5071.dir/hackrf_rffc5071.c.o
+Linking C executable hackrf_rffc5071
+[ 66%] Built target hackrf_rffc5071
+Scanning dependencies of target hackrf_si5351c
+[ 77%] Building C object hackrf-tools/src/CMakeFiles/hackrf_si5351c.dir/hackrf_si5351c.c.o
+Linking C executable hackrf_si5351c
+[ 77%] Built target hackrf_si5351c
+Scanning dependencies of target hackrf_spiflash
+[ 88%] Building C object hackrf-tools/src/CMakeFiles/hackrf_spiflash.dir/hackrf_spiflash.c.o
+Linking C executable hackrf_spiflash
+[ 88%] Built target hackrf_spiflash
+Scanning dependencies of target hackrf_transfer
+[100%] Building C object hackrf-tools/src/CMakeFiles/hackrf_transfer.dir/hackrf_transfer.c.o
+Linking C executable hackrf_transfer
+[100%] Built target hackrf_transfer
+```
+
+```sh
+pymelab@workstation:~/sdr/hackrf/host/build$ sudo make install
+sudo: imposible resolver el anfitrión workstation
+[ 11%] Built target hackrf
+[ 22%] Built target hackrf-static
+[ 33%] Built target hackrf_cpldjtag
+[ 44%] Built target hackrf_info
+[ 55%] Built target hackrf_max2837
+[ 66%] Built target hackrf_rffc5071
+[ 77%] Built target hackrf_si5351c
+[ 88%] Built target hackrf_spiflash
+[100%] Built target hackrf_transfer
+Install the project...
+-- Install configuration: ""
+-- Installing: /usr/local/lib/pkgconfig/libhackrf.pc
+-- Installing: /etc/udev/rules.d/53-hackrf.rules
+-- Installing: /usr/local/lib/libhackrf.so.0.4.0
+-- Installing: /usr/local/lib/libhackrf.so.0
+-- Installing: /usr/local/lib/libhackrf.so
+-- Installing: /usr/local/lib/libhackrf.a
+-- Installing: /usr/local/include/libhackrf/hackrf.h
+-- Installing: /usr/local/bin/hackrf_max2837
+-- Removed runtime path from "/usr/local/bin/hackrf_max2837"
+-- Installing: /usr/local/bin/hackrf_si5351c
+-- Removed runtime path from "/usr/local/bin/hackrf_si5351c"
+-- Installing: /usr/local/bin/hackrf_transfer
+-- Removed runtime path from "/usr/local/bin/hackrf_transfer"
+-- Installing: /usr/local/bin/hackrf_rffc5071
+-- Removed runtime path from "/usr/local/bin/hackrf_rffc5071"
+-- Installing: /usr/local/bin/hackrf_spiflash
+-- Removed runtime path from "/usr/local/bin/hackrf_spiflash"
+-- Installing: /usr/local/bin/hackrf_cpldjtag
+-- Removed runtime path from "/usr/local/bin/hackrf_cpldjtag"
+-- Installing: /usr/local/bin/hackrf_info
+-- Removed runtime path from "/usr/local/bin/hackrf_info"
+pymelab@workstation:~/sdr/hackrf/host/build$ 
+```
+
+```sh
 root@jessie:~$ rtl_test -t
 ```
