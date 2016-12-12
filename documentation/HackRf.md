@@ -63,5 +63,12 @@ root@jessie:~#
 ```
 
 ```sh
+pymelab@workstation:~$ mkdir ~/sdr
+pymelab@workstation:~$ cd sdr/
+pymelab@workstation:~/sdr$ git clone https://github.com/mossmann/hackrf.git
+```
+
+
+```sh
 root@jessie:~$ rtl_test -t
 ```
