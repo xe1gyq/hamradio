@@ -6,3 +6,12 @@
 ```sh
 root@jessie:~$ git clone https://github.com/scateu/kalibrate-hackrf.git
 ```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
