@@ -63,9 +63,13 @@ root@jessie:~#
 ```
 
 ```sh
-pymelab@workstation:~$ mkdir ~/sdr
-pymelab@workstation:~$ cd sdr/
-pymelab@workstation:~/sdr$ git clone https://github.com/mossmann/hackrf.git
+user@jessie:~$ mkdir ~/sdr
+user@workstation:~$ cd sdr/
+user@workstation:~/sdr$ git clone https://github.com/mossmann/hackrf.git
+Clone in «hackrf»...
+remote: Counting objects: 10714, done.
+remote: Compressing objects: 100% (5/5), done.
+
 ```
 
 
