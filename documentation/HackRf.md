@@ -8,7 +8,7 @@ root@jessie:~$ git clone https://github.com/scateu/kalibrate-hackrf.git
 ```
 
 ```sh
-root@jessie:~$ dmesg
+root@jessie:~# dmesg
 ...
 [  788.810938] usb 1-3: new high-speed USB device number 4 using xhci_hcd
 [  788.940251] usb 1-3: New USB device found, idVendor=1d50, idProduct=6089
@@ -20,11 +20,11 @@ root@jessie:~$ dmesg
 [  788.984585] hackrf 1-3:1.0: Registered as swradio0
 [  788.984587] hackrf 1-3:1.0: SDR API is still slightly experimental and functionality changes may follow
 [  788.984606] usbcore: registered new interface driver hackrf
-root@jessie:~$ 
+root@jessie:~# 
 ```
 
 ```sh
-root@jessie:~$ lsusb
+root@jessie:~# lsusb
 Bus 004 Device 002: ID 8087:8000 Intel Corp. 
 Bus 004 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 Bus 003 Device 002: ID 8087:8008 Intel Corp. 
@@ -34,15 +34,21 @@ Bus 001 Device 004: ID 1d50:6089 OpenMoko, Inc.
 Bus 001 Device 003: ID 04f2:b39a Chicony Electronics Co., Ltd 
 Bus 001 Device 002: ID 8087:07dc Intel Corp. 
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
-root@jessie:~$  
+root@jessie:~# 
 ```
 
 ```sh
 root@workstation:~# nano /etc/udev/rules.d/52-hackrf.rules
+```
+
+```sh
 ATTR{idVendor}=="1d50", ATTR{idProduct}=="604b", SYMLINK+="hackrf-jawbreaker-%k", MODE="660", GROUP="plugdev"
 ATTR{idVendor}=="1d50", ATTR{idProduct}=="6089", SYMLINK+="hackrf-one-%k", MODE="660", GROUP="plugdev"
 ATTR{idVendor}=="1fc9", ATTR{idProduct}=="000c", SYMLINK+="hackrf-dfu-%k", MODE="660", GROUP="plugdev"
+```
 
+```
+udevadm control --reload-rules
 ```
 
 ```sh
