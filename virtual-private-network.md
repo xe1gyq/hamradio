@@ -1,5 +1,6 @@
-
-
+```sh
+pptsetup --create nuupxe --server ... --username ... --password ... --encrypt
+```
 
 ```sh
 pon nuupxe debug dump lgfd 2 nodetach
