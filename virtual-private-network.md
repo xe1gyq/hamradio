@@ -17,3 +17,7 @@ route add default dev nuupxe
 ```sh
 route add default dev wlan4
 ```
+
+```sh
+route add default dev ppp0
+```
