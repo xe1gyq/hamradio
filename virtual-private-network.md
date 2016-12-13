@@ -1,3 +1,7 @@
+```
+pon nuupxe debug dump lgfd 2 nodetach
+```
+
 ```sh
 route
 ```
